@@ -26,7 +26,7 @@ Frontend: https://github.com/Amaniitd/FCM_web_app
 - Java
 - Node.js
 - npm or yarn
-- Firebase account: refer: 
+- Firebase account
 
 ### Backend
 - Clone this repo (written in Java Springboot): https://github.com/Amaniitd/FCM_backend
@@ -61,4 +61,6 @@ List of all available API endpoints with their functionalities:
 | `/api/fcm/subscribe`         | POST   | Subscribe to a topic         |
 | `/api/notifications/send`    | POST   | Send a notification to a topic |
 
+## References 
+https://firebase.google.com/docs/cloud-messaging/js/send-multiple#java
 
