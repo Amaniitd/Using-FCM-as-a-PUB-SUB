@@ -6,7 +6,7 @@
 
 This project demonstrates the use of Firebase Cloud Messaging (FCM) for server-client communication in a publish-subscribe model. In this system, the server acts as the publisher, sending out messages to the system, while clients function as subscribers, actively listening for these notifications. Upon receiving a message, a subscriber can choose to act on it, enabling dynamic and responsive communication. 
 
-The project encompasses a Spring Boot backend, which handles the server-side functionalities, and a frontend component (using a technology of your choice, like React or Angular) to manage the client-side interactions. The backend is responsible for subscribing clients to specific topics, sending notifications. Meanwhile, the frontend focuses on handling incoming notifications and providing mechanisms for clients to unsubscribe from topics if desired.
+The project encompasses a Spring Boot backend, which handles the server-side functionalities, and a frontend component (in React) to manage the client-side interactions. The backend is responsible for subscribing clients to specific topics, sending notifications. Meanwhile, the frontend focuses on handling incoming notifications and providing mechanisms for clients to unsubscribe from topics if desired.
 
 
 Backend: https://github.com/Amaniitd/FCM_backend
